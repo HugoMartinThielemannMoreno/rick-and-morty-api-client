@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "name": "Rick Sanchez",
+  "status": "Alive",
+  "species": "Human",
+  "type": "",
+  "origin": {
+    "name": "Earth (C-137)",
+    "url": "https://rickandmortyapi.com/api/location/1",
+    "dimension": "",
+    "residents": [    ]
+  },
+  "episode_count": 51
+}
